@@ -42,4 +42,4 @@
 
 ## 许可证
 
-[MIT](https://github.com/P3TERX/Actions-OpenWrt/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com) & [**Acutecat**](https://github.com/acutecat/Actions-OpenWRT-Firmware/blob/main/LICENSE)
+[MIT](https://github.com/acutecat/Actions-OpenWRT-Firmware/blob/main/LICENSE) © [**P3TERX**](https://p3terx.com) & [**Acutecat**](https://github.com/acutecat/Actions-OpenWRT-Firmware/blob/main/LICENSE)
